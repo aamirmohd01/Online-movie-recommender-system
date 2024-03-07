@@ -43,7 +43,7 @@ This is an Online Movie Recommender System project based on cosine similarity. I
 
 3. Run the application:
    ```
-   python app.py
+   streamlit run app.py
    ```
 
 4. Open a web browser and go to `[http://localhost:8501](http://localhost:8501/)` to access the Online Movie Recommender System.
