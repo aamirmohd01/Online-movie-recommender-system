@@ -55,6 +55,6 @@ This is an Online Movie Recommender System project based on cosine similarity. I
 
 ## Credits
 
-This project was created by [Mohammad Aamir].
+This project was created by Mohammad Aamir.
 
 ---
